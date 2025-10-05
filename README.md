@@ -5,7 +5,7 @@
 
 ## 📂 Submission Contents
 - `submission.ipynb` → The single notebook that contains all code, visualizations, and explanations for this assignment.
-- `plots` - This folder containes images of plot sh
+- `plots` - This folder containes images of  plots of t-SNE and Isomap
 ## 📌 Overview
 This assignment explores the Yeast gene expression dataset to identify data veracity challenges inherent in multi-label classification by applying non-linear dimensionality reduction techniques such as **t-SNE** and **Isomap** to the feature vectors to visually expose these data quality
 issues, thereby understanding the challenges a classifier would face.
