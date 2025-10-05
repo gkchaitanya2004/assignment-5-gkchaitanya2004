@@ -25,7 +25,7 @@ issues, thereby understanding the challenges a classifier would face.
 - And then identified regions in t-SNE such as **Noisy/Ambiguous Labels** , **Outliers** and **Hard to learn samples** visually form the plot.
 - Final shape of data after reduction is (no_of_datapoints,2)
 - Here is t-SNE plot with perplexity = 60
-  ![2D t-SNE Visualization of Yeast Data](plots/tsne.png) 
+  ![2D t-SNE Visualization of Yeast Data](plots/t-SNE.png) 
 
 ### Isomap
 - Similarly applied the Isomap technique on the dataset and reduced its shape to **(no_of_datapoints,2)**
